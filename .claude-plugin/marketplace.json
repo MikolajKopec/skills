@@ -1,0 +1,25 @@
+{
+  "name": "mikolajkopec",
+  "owner": {
+    "name": "Mikołaj Kopeć",
+    "url": "https://github.com/MikolajKopec"
+  },
+  "description": "Mikołaj Kopeć's practical Claude Code skills for creators, as an installable plugin.",
+  "plugins": [
+    {
+      "name": "mikolajkopec-skills",
+      "source": "./",
+      "description": "Practical skills for creators: cut retakes, false starts and long pauses out of a talking-head recording and export an editable timeline for DaVinci Resolve, Premiere Pro and Final Cut Pro.",
+      "category": "video",
+      "keywords": [
+        "video",
+        "editing",
+        "talking-head",
+        "whisper",
+        "davinci-resolve",
+        "premiere-pro",
+        "final-cut-pro"
+      ]
+    }
+  ]
+}
