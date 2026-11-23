@@ -9,8 +9,8 @@
     {
       "name": "mikolajkopec-skills",
       "source": "./",
-      "description": "Practical skills for creators: cut retakes, false starts and long pauses out of a talking-head recording and export an editable timeline for DaVinci Resolve, Premiere Pro and Final Cut Pro.",
-      "category": "video",
+      "description": "Practical skills for creators: cut retakes, false starts and long pauses out of a talking-head recording and export an editable timeline for DaVinci Resolve, Premiere Pro and Final Cut Pro; improve a website in autonomous rounds reviewed by persona subagents.",
+      "category": "productivity",
       "keywords": [
         "video",
         "editing",
@@ -18,7 +18,10 @@
         "whisper",
         "davinci-resolve",
         "premiere-pro",
-        "final-cut-pro"
+        "final-cut-pro",
+        "web",
+        "landing-page",
+        "design-review"
       ]
     }
   ]
